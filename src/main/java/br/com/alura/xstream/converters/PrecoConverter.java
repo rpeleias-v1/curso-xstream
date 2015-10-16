@@ -1,4 +1,4 @@
-package br.com.alura.xstream;
+package br.com.alura.xstream.converters;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

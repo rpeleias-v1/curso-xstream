@@ -1,4 +1,4 @@
-package br.com.alura.xstream;
+package br.com.alura.xstream.converters;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,6 +8,9 @@ import com.thoughtworks.xstream.converters.MarshallingContext;
 import com.thoughtworks.xstream.converters.UnmarshallingContext;
 import com.thoughtworks.xstream.io.HierarchicalStreamReader;
 import com.thoughtworks.xstream.io.HierarchicalStreamWriter;
+
+import br.com.alura.xstream.Compra;
+import br.com.alura.xstream.Produto;
 
 public class CompraDiferenteConverter implements Converter {
 

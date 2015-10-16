@@ -6,6 +6,8 @@ import org.junit.Test;
 
 import com.thoughtworks.xstream.XStream;
 
+import br.com.alura.xstream.converters.PrecoConverter;
+
 public class ProdutoTest {
 
 	@Test

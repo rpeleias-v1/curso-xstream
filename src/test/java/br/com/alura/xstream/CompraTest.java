@@ -10,6 +10,8 @@ import org.junit.Test;
 
 import com.thoughtworks.xstream.XStream;
 
+import br.com.alura.xstream.converters.CompraDiferenteConverter;
+
 public class CompraTest {
 
 	@Test
